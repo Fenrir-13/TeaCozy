@@ -58,7 +58,7 @@ footer {
   background-image: url("../../resources/images/bckgnd-mission.jpg");  
   background-repeat: no-repeat;  
   background-size: cover;
-  height: 500px;
+  height: 700px;
   width: 1200px;
   display: flex;
   align-items: center;
@@ -69,7 +69,7 @@ footer {
   background-image: url("../../resources/images/bckgnd-location.jpg");  
   background-repeat: no-repeat;  
   background-size: cover;
-  height: 700px;
+  height: 500px;
   width: 1200px;
   display: flex;
   align-items: center;
